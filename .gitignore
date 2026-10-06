@@ -1,0 +1,9 @@
+.dart_tool/
+.packages
+build/
+pubspec.lock
+*.iml
+.idea/
+
+# Fichier de données généré par l'application en local
+tasks.json

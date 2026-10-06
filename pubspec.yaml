@@ -1,0 +1,15 @@
+name: task_cli
+description: Application CLI de gestion de tâches en Dart pur.
+version: 1.0.0
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  # Aucune dépendance externe pour le cœur de l'application :
+  # uniquement les librairies du SDK Dart (dart:io, dart:convert).
+
+dev_dependencies:
+  test: ^1.25.0
+  lints: ^4.0.0
